@@ -104,7 +104,7 @@ body {
 .testimonials {
     display: grid;
     border-radius: 8px;
-    box-shadow: 40px 60px 50px rgba(72, 85, 106, 24.74%);
+    box-shadow: 40px 60px 50px rgba(72, 85, 106, 24.74%);  
 }
 
 img {
@@ -171,6 +171,9 @@ img {
 
 .testimonial-1 {
     background-color: var(--purple-500);
+    background-image: url(images/bg-pattern-quotation.svg);
+    background-repeat: no-repeat;
+    background-position: 86% 0;
 }
 
 .status-1 {
